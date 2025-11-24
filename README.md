@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Muhammad Usman | Data Scientist & Software Engineer
+# Muhammad Usman | Full Stack Machine Learning Engineer and Data Scientist
 
 **"Code like a poet, think like a scientist, and debug like a detective."**  
 👾 **Passionate about building impactful solutions** | 🔍 **Data-Driven Decision Making** | 🧑‍💻 **Turning ideas into scalable systems**
